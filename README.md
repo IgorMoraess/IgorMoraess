@@ -21,10 +21,10 @@ let frameworks = ['Spring Boot', 'Spring Security', 'Json Web Tokens', 'Oracle A
 
 </div>
 
-<p float="left">
-  <img width="300px" height="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkxemh3bjlscWNmNTEwY3gzMGllaWx1YnJjMm1qdmYwODEyc2loayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif">
+<div align="center">
+ <img width="300px" height="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkxemh3bjlscWNmNTEwY3gzMGllaWx1YnJjMm1qdmYwODEyc2loayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif">
   <img width="300px" height="300px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ba60889-62e3-480b-b1a4-3b7f949fe0cb/df8khfn-80e5cb86-6760-43d6-b93a-9465748a01f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiYTYwODg5LTYyZTMtNDgwYi1iMWE0LTNiN2Y5NDlmZTBjYlwvZGY4a2hmbi04MGU1Y2I4Ni02NzYwLTQzZDYtYjkzYS05NDY1NzQ4YTAxZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gvbaYfuwd1woVGh9nujDS-IhMsTgxJv72Zw0O5k6VgY">
-</p>
+</div>
 
 <br>
 <br>
