@@ -8,18 +8,6 @@
   <span>Dev Back-end</span>
 </h2>
 
-`<!DOCTYPE html>`<br>
-`<html lang="en">`<br>
-`<head>`<br>
-`<meta charset="UTF-8">`<br>
-`<meta name="viewport" content="width=device-width, initial-scale=1.0">`<br>
-`<title>ReadMe</title>`<br>
-`</head>`<br>
-`<body>`<br>
-`<p id="line"></p>`<br>
-`<script src="readme.js"></script>`<br>
-`</body>`<br>
-`</html>`
 
 const line = document.getElementById('line');<br>
 let name = 'Igor Moraes'<br>
@@ -27,14 +15,11 @@ let linguagens = ['Git', 'MYSql', 'Java', 'Python', 'JavaScript'];<br>
 let frameworks = ['Spring Boot', 'Spring Security', 'Json Web Tokens', 'Oracle ADS', 'Pandas', 'Scikit Learn']<br>
 
 <div>
-  <img width="300px" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9lNHE1ZDZwamcwZjg4MDVnYmp5bGJxM3ZnNXl1YjB5Ymd6a3hjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguin Code">
-  
- 
-  
-  
-  
-  ` <p>Olá meu nome é ${name} sou desenvolvedor Back-end ☕ , atualmente estou expandindo meu domínio também para o Front-End para me tonar um Dev Full Stack. Domino as Linguagens ${linguagens} e Frameworks ${}</p>`
+ <img width="300px" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9lNHE1ZDZwamcwZjg4MDVnYmp5bGJxM3ZnNXl1YjB5Ymd6a3hjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguin Code">
 
+  `<p>Olá meu nome é ${name} sou desenvolvedor Back-end ☕ , atualmente estou expandindo meu domínio para o Front-End para me tonar um Dev Full Stack ༼ つ ◕_◕ ༽つ. Domino as Linguagens ${linguagens.join(', ')} e os Frameworks ${frameworks.join(', ')}.</p>`
+
+ 
 </div>
 
 
