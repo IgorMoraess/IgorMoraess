@@ -24,10 +24,6 @@ let frameworks = ['Spring Boot', 'Spring Security', 'Json Web Tokens', 'Oracle A
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <div align="center">
  <img width="300px" height="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkxemh3bjlscWNmNTEwY3gzMGllaWx1YnJjMm1qdmYwODEyc2loayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif">
