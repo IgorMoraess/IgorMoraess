@@ -12,12 +12,12 @@
 const line = document.getElementById('line');<br>
 let name = 'Igor Moraes'<br>
 let linguagens = ['Git', 'MYSql', 'Java', 'Python', 'JavaScript'];<br>
-let frameworks = ['Spring Boot', 'Spring Security', 'Json Web Tokens', 'Oracle ADS', 'Pandas', 'Scikit Learn']<br>
+<br>
 
 <div>
  
 
-  `<p>Olá meu nome é ${name} sou desenvolvedor Back-end ☕ , atualmente estou expandindo meu domínio para o Front-End para me tonar um Dev Full Stack ༼ つ ◕_◕ ༽つ. Domino as Linguagens ${linguagens.join(', ')} e os Frameworks ${frameworks.join(', ')}.</p>`
+  `<p>Olá meu nome é ${name} sou desenvolvedor Back-end ☕ , atualmente estou expandindo meu domínio para o Front-End para me tonar um Dev Full Stack ༼ つ ◕_◕ ༽つ. Domino as Linguagens ${linguagens.join(', ')}.</p>`
 
 </div>
 
